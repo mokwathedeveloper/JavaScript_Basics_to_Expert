@@ -23,6 +23,7 @@ console.log(typeof num1, num1);
 let num01 = num1 + ""
 console.log(typeof num01, num01)
 // converting string to number
+
 let num2 = +num1
 console.log(typeof num2 , num2)
 // other method of converting number to string
