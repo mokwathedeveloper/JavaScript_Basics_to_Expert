@@ -8,6 +8,7 @@ console.log(str1+str2)
 
 // Template String (Es6)
 
+
 let firstName = "Mokwa";
 let Age = 37
 let aboutMe = `My name is ${firstName} and am ${Age}  old`
