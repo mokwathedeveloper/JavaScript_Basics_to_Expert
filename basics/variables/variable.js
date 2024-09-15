@@ -9,7 +9,7 @@
 var course =  "JavaScript"
 
 // we can use = assignment to store variable 
-//incase of strict command we mus use var
+//incase of strict command we must use var
 description = "coures description"
 
 console.log(course)
